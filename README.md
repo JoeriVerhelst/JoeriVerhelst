@@ -1,27 +1,7 @@
 <h2 align="left">Hi 👋! My name is Joeri Verhelst and I'm a Full-stack Developer, from Belgium 🍟 🖤💛❤️</h2>
 
 ###
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JoeriVerhelst&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoeriVerhelst&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoeriVerhelst&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-###
-
+<img align="right" height="150" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=6c09b952lmxw6vz2yy7wg9t8nhydjpdfzlri2gmhtyvhrpff&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -60,7 +40,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=6c09b952lmxw6vz2yy7wg9t8nhydjpdfzlri2gmhtyvhrpff&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
 
 ###
 
