@@ -53,22 +53,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/joerivrh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=joerivrh&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
