@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joeri Verhelst and I'm a Full-stack Developer, from Belgium 🍟 🖤💛❤️</h2>
+<h2 align="left">Hi 👋! My name is Joeri Verhelst, from Belgium 🍟 🖤💛❤️</h2>
 
 ###
 <img align="right" height="150" src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.gif?cid=6c09b952lmxw6vz2yy7wg9t8nhydjpdfzlri2gmhtyvhrpff&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
